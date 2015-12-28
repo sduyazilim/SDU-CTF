@@ -1,8 +1,6 @@
 #include <GUIConstants_x.au3>
 
-
 Global $DownPath = "http://sdeveci.com/sductf/flagctf.txt", $CongFile = @TempDir & "flagctf.txt"
-
 
 $DownStat = InetGet($DownPath, @TempDir & "\flagctf.txt", 1, 0);Background
 

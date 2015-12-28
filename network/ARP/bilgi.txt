@@ -1,0 +1,4 @@
+http://dosya.co/5cfntfd6gcrj/net.pcap.html
+
+Paketlerin yüzde kaçı arp paketi değildir ?
+sonuç : 78,8 ise format : sduyazilim_{78_8} olmalı

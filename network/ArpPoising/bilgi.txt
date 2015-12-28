@@ -1,5 +1,4 @@
-Verilen pcap dosyasında arp atak yapan kullanıcının MAC adresi ve hostname ismini bulabilir misiniz ?
+﻿Verilen pcap dosyasında arp atak yapan kullanıcının MAC adresi ve hostname ismini bulabilir misiniz ?
 FORMAT: sduyazilim_{hostname_mac}
 
 NOT : Soru güncellenmiştir. Dosyayı tekrar indirin lütfen.
-http://dosya.co/s7ssyshn9lh0/arpctf.pcap.html

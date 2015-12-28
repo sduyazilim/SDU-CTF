@@ -1,0 +1,2 @@
+C dilinde bir program yazýlýyor ve 50 elemanlý integer tipinde bir dizi tanýmlanýyor.
+Program çalýþtýrýlýyor ve dizinin yedinci elemanýnýn adresi olarak 2293144 sayýsý dönüyor. buna göre dizinin 25. elemaný için hangi sayý ekrana basýlmýþtýr.

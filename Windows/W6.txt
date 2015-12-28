@@ -1,0 +1,2 @@
+Windows sistemlerde komut satýrýný temizlemek amacý ile hangi komut kullanýlýr ?
+Örnek : Linux ta "clear" komutu.

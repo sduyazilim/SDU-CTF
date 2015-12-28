@@ -1,0 +1,1 @@
+Windows sistemlerde processleri listelemeye yarayan komut nedir ?

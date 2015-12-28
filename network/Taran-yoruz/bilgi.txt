@@ -1,0 +1,5 @@
+Bir sisteme yönelik bir port tarama yapılmıştır. taranan port numaralarını ve hangilerinin açık olarak tespit edildiğini bulabilir misiniz ?
+
+FORMAT : sduyazilim{scan_port1_port2....open_port1_port2... }
+
+portlar küçükten büyüğe olacak şekilde yazılmalıdır.

@@ -1,0 +1,11 @@
+Verilen pcap dosyasındaki gizli SSID yayını yapan cihazın
+
+BSSID
+SSID
+Channel
+Şifreleme tipi gibi bilgilerini bulabilir misiniz ?
+FORMAT:bssid_ssid_channel_enc şeklinde yazdıktan sonra md5 e çevirin
+
+sduyazilim_{md5}
+
+http://dosya.co/wg1wjywflnd4/hidden.pcap.html

@@ -1,0 +1,5 @@
+Toplam paketlerin yüzde kaçı icmp paketidir ?
+
+sonuç : 2,457 ise ; format : sduyazilim_{2_457} şeklinde olmalı
+
+http://dosya.co/5cfntfd6gcrj/net.pcap.html

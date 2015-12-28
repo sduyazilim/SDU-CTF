@@ -1,4 +1,4 @@
-Verilen pcap dosyasındaki gizli SSID yayını yapan cihazın
+﻿Verilen pcap dosyasındaki gizli SSID yayını yapan cihazın
 
 BSSID
 SSID
@@ -7,5 +7,3 @@ Channel
 FORMAT:bssid_ssid_channel_enc şeklinde yazdıktan sonra md5 e çevirin
 
 sduyazilim_{md5}
-
-http://dosya.co/wg1wjywflnd4/hidden.pcap.html

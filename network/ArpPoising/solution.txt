@@ -1,2 +1,4 @@
   ARP Detect
    * arp.duplicate-address-frame
+  Hostanem Detect
+   * bootp.option.hostname

@@ -7,8 +7,5 @@
 
 ![alt text](http://i65.tinypic.com/9zszft.jpg "SDU-CTF-Statistic")
 
-
-
-
 - [Çözümler] 
-**[Çözümler]:** <http://besimaltinok.com/sduyazilim-ctf/>
+[Çözümler]: <http://besimaltinok.com/sduyazilim-ctf/>
